@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>02418e51-60c5-48c5-8823-9d389887123c</TargetProject>
+    <FriendlyName>Minecraft_csv-viewer</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>D:\TEMP\Minecraft_csv-viewer_20170910.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
